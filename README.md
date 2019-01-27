@@ -1,5 +1,5 @@
 # vue.demo
-This is a demo for Vue project
+This is a demo about '饿了么' for Vue project, and learn from '开课吧'
 
 ### Website
 https://wmf1993.github.io/vue.demo
